@@ -1,8 +1,8 @@
 # Alchemy Ingredients – Skyrim
 
-- [A–F](#a–f)
-- [G–P](#g–p)
-- [Q–Z](#q–z)
+- [A–F](#af)
+- [G–P](#gp)
+- [Q–Z](#qz)
 - [Legend](#legend)
 
 ## A–F
