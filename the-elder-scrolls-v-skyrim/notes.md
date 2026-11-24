@@ -24,7 +24,7 @@ Le vesti civili si possono comprare al negozio Radiose Vesti di Solitude.
 - Collana d'oro con diamante: `player.additem 000877f1 5`
 - Cappello (bandana bianca): `player.additem 000330b3 1`
 - Grembiule da fabbro chiaro: `player.additem 0006ff37 1`
-- Guanti: `player.additem 000261c1 5`
+- Guanti: `player.additem 000261c1 2`
 - Vesti del vagabondo: `player.additem 05000e4a 3`
 - Cappuccio del vagabondo: `player.additem 05000e4b 3`
 - Gemma dell'anima suprema piena `player.additem 0002e4ff 20`
@@ -42,7 +42,7 @@ Le vesti civili si possono comprare al negozio Radiose Vesti di Solitude.
 - [ALCHIMISTA] Fortifica Alchimia su tutti i pezzi + Fortifica Oratoria sulla Collana
 - [FABBRO] Fortifica Forgiatura + Fortifica Carico Massimo su tutti i pezzi tranne il Grembiule
 - [MAGO] Fortifica Distruzione e Fortifica Recupero su tutti i pezzi
-- [NECROMANTE] Fortifica Evocazione e Fortifica Illusione su tutti i pezzi
-- [STREGONE] Fortifica Distruzione e Fortifica Alterazione su tutti i pezzi
+- [NECROMANTE] Fortifica Alterazione e Fortifica Evocazione su tutti i pezzi
+- [STREGONE] Fortifica Distruzione e Fortifica Illusione su tutti i pezzi
 
 **Nota:** *Per applicare entrambi gli enchant è necessario il perk Effetto Extra, sbloccabile con Incantamento al livello 100.* 
