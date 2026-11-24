@@ -6,6 +6,8 @@ I'm playing The Elder Scrolls V: Skyrim Special Edition (unmodded) with Dawnguar
 ## 1. Farming Sets
 Per rinominare un oggetto, premi `F` al tavolo dell'arcanista prima di concludere l'incantamento.
 
+![Anteprima dei Set su Skyrim](images/skyrim_farming_sets.webp)
+
 ### NOMI
 - [ALCHIMISTA] Anello / Collana / Cappello / Guanti
 - [FABBRO] Anello / Collana / Grembiule / Guanti
