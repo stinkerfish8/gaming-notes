@@ -1,5 +1,5 @@
 # My Notes (IT)
-I'm playing The Elder Scrolls V: Skyrim Special Edition (unmodded) with Dawnguard, Dragonborn, and Hearthfire, along with Survival Mode, Fishing, Rare Curios, and Saints and Seducers installed, using the Italian localization, which is terrible. I'll switch to the original English language once I finish my first playthrough.
+I'm playing The Elder Scrolls V: Skyrim Special Edition (unmodded) with Dawnguard, Dragonborn, and Hearthfire, along with Survival Mode, Fishing, Rare Curios, and Saints and Seducers installed, using the Italian localization, which is terrible. I'll switch to the original English language once I finish my first playthrough. I might add an English translation later.
 
 ## 1. Farming Sets
 Per rinominare un oggetto, premi `F` al tavolo dell'arcanista prima di concludere l'incantamento.
