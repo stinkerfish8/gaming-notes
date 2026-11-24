@@ -1,7 +1,8 @@
 # My Notes (IT)
 I'm playing The Elder Scrolls V: Skyrim Special Edition (unmodded) with Dawnguard, Dragonborn, and Hearthfire, along with Survival Mode, Fishing, Rare Curios, and Saints and Seducers installed, using the Italian localization, which is terrible. I'll switch to the original English language once I finish my first playthrough. I might add an English translation later.
 
-> **Credits:** *The Elder Scrolls V: Skyrim Special Edition* and related game content are property of Bethesda Softworks / ZeniMax Media.
+- [Credits & License](#credits)
+- [Connect](#connect)
 
 ## 1. Farming Sets
 Per rinominare un oggetto, premi `F` al tavolo dell'arcanista prima di concludere l'incantamento.
@@ -50,6 +51,12 @@ Le vesti civili si possono comprare al negozio Radiose Vesti di Solitude.
 - [STREGONE] Fortifica Distruzione e Fortifica Illusione su tutti i pezzi
 
 **Nota:** *Per applicare entrambi gli enchant è necessario il perk Effetto Extra, sbloccabile con Incantamento al livello 100.* 
+
+## Credits & License <a id="credits"></a>
+<!-- Aggiungo un'ancora HTML con id="credits" per avere un link più corto e far funzionare l'indice anche se cambio il titolo. Non è obbligatoria, GitHub ne crea una automaticamente -->
+
+- **Repository License:** Unless otherwise specified, all other original content in this repository is governed by the terms in the main [README](../README.md).
+- **Disclaimer:** This is an unofficial personal reference and is not affiliated with, endorsed, or sponsored by Bethesda Softworks or ZeniMax Media. *The Elder Scrolls V: Skyrim* and related game content are trademarks and property of their respective owners.
 
 ## Connect
 [![Linktree](https://img.shields.io/badge/Linktree-139651?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Stinker_Fish)
