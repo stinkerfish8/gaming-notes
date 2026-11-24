@@ -48,3 +48,7 @@ Le vesti civili si possono comprare al negozio Radiose Vesti di Solitude.
 - [STREGONE] Fortifica Distruzione e Fortifica Illusione su tutti i pezzi
 
 **Nota:** *Per applicare entrambi gli enchant è necessario il perk Effetto Extra, sbloccabile con Incantamento al livello 100.* 
+
+## Connect
+[![Linktree](https://img.shields.io/badge/Linktree-139651?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Stinker_Fish)
+[![Discord Online](https://img.shields.io/discord/1356681047374299317?style=for-the-badge&logo=discord&logoColor=white&label=Discord&labelColor=555555&color=5865F2)](https://discord.gg/kTRQ7uXwpk)
