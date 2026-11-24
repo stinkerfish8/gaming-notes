@@ -252,3 +252,7 @@
 
 - Data adapted from [UESP – Skyrim:Ingredients](https://en.uesp.net/wiki/Skyrim:Ingredients), licensed under [Creative Commons Attribution-ShareAlike 2.5 (CC BY-SA 2.5)](https://creativecommons.org/licenses/by-sa/2.5/).
 - *The Elder Scrolls V: Skyrim* and related game content are property of Bethesda Softworks / ZeniMax Media.
+
+## Connect
+[![Linktree](https://img.shields.io/badge/Linktree-139651?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Stinker_Fish)
+[![Discord Online](https://img.shields.io/discord/1356681047374299317?style=for-the-badge&logo=discord&logoColor=white&label=Discord&labelColor=555555&color=5865F2)](https://discord.gg/kTRQ7uXwpk)
