@@ -250,5 +250,5 @@
 
 ## Credits <a id="credits"></a>
 
-- Data sourced from [UESP – Skyrim:Ingredients](https://en.uesp.net/wiki/Skyrim:Ingredients).
-- *The Elder Scrolls V: Skyrim* and related content are property of Bethesda Softworks / ZeniMax Media.
+- Data adapted from [UESP – Skyrim:Ingredients](https://en.uesp.net/wiki/Skyrim:Ingredients), licensed under [Creative Commons Attribution-ShareAlike 2.5 (CC BY-SA 2.5)](https://creativecommons.org/licenses/by-sa/2.5/).
+- *The Elder Scrolls V: Skyrim* and related game content are property of Bethesda Softworks / ZeniMax Media.
