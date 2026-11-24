@@ -5,7 +5,8 @@
 - [Q–Z](#qz)
 - [Columns Guide](#columns-guide)
 - [Localized & Original Name Lookup](#localized--original-name-lookup)
-- [Credits](#credits)
+- [Credits & License](#credits)
+- [Connect](#connect)
 
 ## A–F
 
@@ -248,10 +249,11 @@
 3. Look up that **FormID** on the UESP wiki to see the matching English ingredient name, or match the ingredient's **4 alchemy effects** against the tables in this file.
 4. Use **`Page Up`** and **`Page Down`** to scroll and press the console key again to close it.
 
-## Credits <a id="credits"></a>
+## Credits & License <a id="credits"></a>
 
-- Data adapted from [UESP – Skyrim:Ingredients](https://en.uesp.net/wiki/Skyrim:Ingredients), licensed under [Creative Commons Attribution-ShareAlike 2.5 (CC BY-SA 2.5)](https://creativecommons.org/licenses/by-sa/2.5/).
-- *The Elder Scrolls V: Skyrim* and related game content are property of Bethesda Softworks / ZeniMax Media.
+- **File License:** Data in this file is adapted from [UESP – Skyrim:Ingredients](https://en.uesp.net/wiki/Skyrim:Ingredients) and inherits its [Creative Commons Attribution-ShareAlike 2.5 (CC BY-SA 2.5)](https://creativecommons.org/licenses/by-sa/2.5/) license.
+- **Repository License:** Unless otherwise specified, all other original content in this repository is governed by the terms in the main [README](../README.md).
+- **Disclaimer:** This is an unofficial personal reference and is not affiliated with, endorsed, or sponsored by Bethesda Softworks or ZeniMax Media. *The Elder Scrolls V: Skyrim* and related game content are trademarks and property of their respective owners.
 
 ## Connect
 [![Linktree](https://img.shields.io/badge/Linktree-139651?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Stinker_Fish)
