@@ -27,6 +27,7 @@ Le vesti civili si possono comprare al negozio Radiose Vesti di Solitude.
 - Guanti: `player.additem 000261c1 5`
 - Vesti del vagabondo: `player.additem 05000e4a 3`
 - Cappuccio del vagabondo: `player.additem 05000e4b 3`
+- Gemma dell'anima suprema piena `player.additem 0002e4ff 20`
 
 **Nota:** *Per ricevere l'oggetto con il comando `player.additem` serve il suo BaseID, da non confondere con il RefID che identifica l'oggetto in una determinata istanza. Droppa l'item a terra e cliccalo con la console aperta per vederli entrambi.*
 
@@ -39,7 +40,7 @@ Le vesti civili si possono comprare al negozio Radiose Vesti di Solitude.
 
 ### INCANTAMENTI
 - [ALCHIMISTA] Fortifica Alchimia su tutti i pezzi + Fortifica Oratoria sulla Collana
-- [FABBRO] Fortifica Forgiatura su tutti i pezzi
+- [FABBRO] Fortifica Forgiatura + Fortifica Carico Massimo su tutti i pezzi tranne il Grembiule
 - [MAGO] Fortifica Distruzione e Fortifica Recupero su tutti i pezzi
 - [NECROMANTE] Fortifica Evocazione e Fortifica Illusione su tutti i pezzi
 - [STREGONE] Fortifica Distruzione e Fortifica Alterazione su tutti i pezzi
