@@ -14,8 +14,6 @@ Technical notes exploring how *The Elder Scrolls V: Skyrim Special Edition* work
 * `getpos x` / `getpos y` / `getpos z` — Restituisce le coordinate esatte dell'oggetto selezionato.
 * `getangle x` / `getangle y` / `getangle z` — Restituisce l'inclinazione sugli assi dell'oggetto selezionato.
 
----
-
 ### Posizionamento, scala e gestione oggetti
 * `player.placeatme <BaseID> <quantità>` — Genera un'istanza dell'oggetto alle coordinate del giocatore.
 * `setpos x <valore>` / `setpos y <valore>` / `setpos z <valore>` — Sposta l'oggetto selezionato alle coordinate indicate.
@@ -25,8 +23,6 @@ Technical notes exploring how *The Elder Scrolls V: Skyrim Special Edition* work
 * `enable` — Riattiva un oggetto disabilitato.
 * `markfordelete` — Segna un oggetto generato con `placeatme` per la rimozione definitiva al successivo caricamento (usare insieme a `disable`).
 
----
-
 ### Funzioni Papyrus invocabili da console (su oggetto selezionato)
 * `callfunction "SetOpen" 1` / `0` — Apre o chiude porte, cancelli o contenitori animati.
 * `callfunction "Lock" <livello>` — Blocca una serratura (`25` Principiante, `50` Apprendista, `75` Specialista, `100` Arduo, `255` Richiede chiave).
@@ -34,8 +30,6 @@ Technical notes exploring how *The Elder Scrolls V: Skyrim Special Edition* work
 * `callfunction "Reset"` — Esegue il reset dello stato Papyrus della cella o dell'oggetto selezionato.
 * `recycleactor` — Ripristina un NPC o una creatura al suo stato e inventario iniziali.
 * `resurrect` — Riporta in vita l'NPC selezionato (`resurrect 1` conserva l'inventario corrente).
-
----
 
 ### Giocatore, inventario e teletrasporto
 * `player.additem <BaseID> <quantità>` — Aggiunge un oggetto nell'inventario del giocatore.
@@ -45,8 +39,6 @@ Technical notes exploring how *The Elder Scrolls V: Skyrim Special Edition* work
 * `coc <EditorID_Cella>` — Teletrasporta il giocatore nella cella indicata (es. `coc WhiterunOrigin`).
 * `tcl` — Attiva/disattiva le collisioni (noclip) per posizionare oggetti in punti difficili.
 * `tfc` — Attiva/disattiva la telecamera libera (`tfc 1` mette anche in pausa il mondo).
-
----
 
 ### Missioni (Quest)
 * `sqt` — Elenca le missioni attive e i relativi ID interni.
@@ -72,8 +64,6 @@ Ogni NPC o entità del gioco ha una lista di istruzioni. Il motore controlla con
 ### Havok (fisica legata al frame rate)
 
 Per gestire la gravità degli oggetti il Creation Engine usa un sottosistema chiamato Havok. In Skyrim la fisica è strettamente legata agli fps (per questo di default il gioco è bloccato a 60, quelli per cui è stato progettato). In Skyrim 1 fotogramma = 1 unità di tempo fisico: se cambi la velocità dei fotogrammi, alteri il tempo della fisica di gioco.
-
----
 
 ## Credits & License <a id="credits"></a>
 
