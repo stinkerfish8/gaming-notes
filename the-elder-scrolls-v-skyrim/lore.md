@@ -72,7 +72,7 @@ L'huscarl Lydia è stata una compagnia ben più piacevole rispetto a Farkas, che
 
 Viaggiando sono poi capitata a Falkreath, dai paesaggi splendidi. Luogo singolare in cui conoscere un'altra redguard: Rayya, compagna fantastica e primo vero volto amico a Skyrim. Abilissima nel dual wielding: spero di diventarlo anch'io. Sempre lì ho affrontato il mio primo incontro casuale con un drago, dal quale purtroppo è rimasta orfana Dorthe, che ho portato subito con me a Breezehome.
 
-Altro compagno indimenticabile è stato Barbas, un enorme levriero irlandese poi restituito al suo legittimo proprietario daedrico. Alle porte di Markarth ho avuto modo di acquistare Vigilance, simile a Barbas nell'aspetto ma di carattere opposto. I 500 septim che ho speso sono ormai una somma irrisoria per me: Skyrim è piena di ingredienti utili per l'alchimia e le mie tasche ne hanno subito beneficiato.
+Altro compagno indimenticabile è stato Barbas, un enorme levriero irlandese poi restituito al suo legittimo proprietario daedrico. Questa razza singolare pare essere la più diffusa a Skyrim, ne ho incontrati diversi esemplari anche randagi. Alle stalle di Markarth ho acquistato Vigilance, simile a Barbas nell'aspetto, ma di carattere totalmente opposto, più adatto alla vita in famiglia che all'avventura. I 500 septim che ho speso sono ormai una somma irrisoria per me: Skyrim è piena di ingredienti utili per l'alchimia e le mie tasche ne hanno subito beneficiato. Molto più avanti si è aggiunto Meeko, altro levriero incontrato però nel Hjaalmarch. Se ne stava in una capanna ai piedi del letto del suo padrone, ormai cadavere.
 
 ### Tenuta del Lago e matrimonio con Ysolda
 
@@ -80,7 +80,7 @@ Di lì a breve ho infatti potuto acquistare la tenuta offerta dallo Jarl di Falk
 
 A Riften ho conosciuto i sacerdoti di Mara, un culto assai irritante ma che mi ha permesso di unirmi in matrimonio a Ysolda, altra conoscenza di Whiterun, realizzando il suo sogno di diventare mercante. Contando che sul bancone ha subito messo anche la nostra fede nuziale, direi di aver fatto assolutamente un ottimo affare. Ho impiegato ore per saccheggiare case nobili e trovare il vestito giusto per la cerimonia, mentre lei si è presentata con gli abiti di tutti i giorni. Due ore di preparativi, un minuto di cerimonia e lei era già in giro a contrattare.
 
-Con lei, le bambine Vigilance Lydia e le Ninfe Breezhome e Whiterun avevano cambiato totalmente volto. Ormai ci tornavo raramente ma era bello sapere di aver ravvivato quel piccolo angolo di Skyrim. 
+Con lei, le bambine, Vigilance, Lydia e le Ninfe, Breezhome e Whiterun avevano cambiato totalmente volto. Ormai ci tornavo raramente ma era bello sapere di aver ravvivato quel piccolo angolo di Skyrim. 
 
 ### Tenuta di Windstad e l'ombra di Uthgerd
 
