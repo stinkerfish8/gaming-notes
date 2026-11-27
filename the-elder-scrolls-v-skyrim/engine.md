@@ -1,3 +1,9 @@
+# Creation Engine & Console Notes (IT)
+Technical notes exploring how *The Elder Scrolls V: Skyrim Special Edition* works under the hood: console commands, Papyrus functions, object IDs, world placement mechanics, and engine quirks observed during an unmodded playthrough. Written in Italian, as I'm currently playing the Italian localization before switching to the original English version.
+
+- [Credits & License](#credits)
+- [Connect](#connect)
+
 ## Comandi Console e Papyrus principali (Skyrim)
 
 ### 1. Ricerca ID e ispezione oggetti
@@ -44,3 +50,14 @@
 * `sqt` — Elenca le missioni attive e i relativi ID interni.
 * `getstage <QuestID>` — Mostra lo stadio attuale di una missione.
 * `setstage <QuestID> <stadio>` — Avanza una missione allo stadio specificato.
+
+---
+
+## Credits & License <a id="credits"></a>
+
+- **Repository License:** Unless otherwise specified, all other original content in this repository is governed by the terms in the main [README](../README.md).
+- **Disclaimer:** This is an unofficial personal reference and is not affiliated with, endorsed, or sponsored by Bethesda Softworks or ZeniMax Media. *The Elder Scrolls V: Skyrim*, the Creation Engine, and related game content are trademarks and property of their respective owners.
+
+## Connect
+[![Linktree](https://img.shields.io/badge/Linktree-139651?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Stinker_Fish)
+[![Discord Online](https://img.shields.io/discord/1356681047374299317?style=for-the-badge&logo=discord&logoColor=white&label=Discord&labelColor=555555&color=5865F2)](https://discord.gg/kTRQ7uXwpk)
