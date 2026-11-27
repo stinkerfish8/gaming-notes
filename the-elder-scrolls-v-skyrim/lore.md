@@ -1,4 +1,8 @@
-# The Elder Scrolls — Lore & Appunti
+# Lore, Influences & Character Journal (IT)
+Personal notes on the history of *The Elder Scrolls* franchise, its literary and esoteric meta-references, and the narrative journal of my character, Sumaya. Written in Italian alongside my first unmodded playthrough of *The Elder Scrolls V: Skyrim Special Edition*, with an English version planned once I switch to the original language.
+
+- [Credits & License](#credits)
+- [Connect](#connect)
 
 ![Mappa di Tamriel](./images/LO-map-Tamriel_%28Oblivion_Codex_Compilation%29.webp)
 
@@ -99,3 +103,12 @@ Acquistai la mia terza magione e trasferii moglie, figlie e cane maldestro nel f
 Il Salone Heljarchen era perfetto per loro: una cucina spaziosa, una camera da letto lussuosa, un magazzino enorme, tanto spazio all'aperto e il sobrio, noioso inquietante Gregor a proteggerle. 
 
 Oriella penso sia la barda più irritante di tutta Skyrim, altro motivo per cui raramente faccio ritorno a questa dimora. Passo ogni tanto giusto per le crostate di Ysolda: a mani basse il cibo migliore di Skyrim, anche meglio di involtini dolci, creme cotte e bastoncini di zucchero rubati ai banchetti reali.
+
+## Credits & License <a id="credits"></a>
+
+- **Repository License:** Unless otherwise specified, all other original content in this repository is governed by the terms in the main [README](../README.md).
+- **Disclaimer:** This is an unofficial personal reference and is not affiliated with, endorsed, or sponsored by Bethesda Softworks or ZeniMax Media. *The Elder Scrolls V: Skyrim*, the Creation Engine, and related game content are trademarks and property of their respective owners.
+
+## Connect
+[![Linktree](https://img.shields.io/badge/Linktree-139651?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Stinker_Fish)
+[![Discord Online](https://img.shields.io/discord/1356681047374299317?style=for-the-badge&logo=discord&logoColor=white&label=Discord&labelColor=555555&color=5865F2)](https://discord.gg/kTRQ7uXwpk)
