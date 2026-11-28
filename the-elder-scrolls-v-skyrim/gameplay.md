@@ -115,7 +115,7 @@ Contatore lavoretti: `GetGlobalValue TGRMasterTotal`. I lavoretti (*radiant ques
 * Stony Creek Cave — Bandit camp/table inside the cave
 * Yngvild — Throne room / boss area (table)
 
-### 3. Ricettario Alchemico <a id="recipes"></a>
+## 3. Ricettario Alchemico <a id="recipes"></a>
 
 | Effetto | Ingredienti | Note |
 | :--- | :--- | :--- |
