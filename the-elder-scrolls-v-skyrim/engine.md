@@ -32,13 +32,14 @@ Technical notes exploring how *The Elder Scrolls V: Skyrim Special Edition* work
 * `resurrect` — Riporta in vita l'NPC selezionato (`resurrect 1` conserva l'inventario corrente).
 
 ### Giocatore, inventario e teletrasporto
-* `player.additem <BaseID> <quantità>` — Aggiunge un oggetto nell'inventario del giocatore.
-* `player.removeitem <BaseID> <quantità>` — Rimuove un oggetto dall'inventario.
-* `moveto player` — Teletrasporta l'NPC o l'oggetto selezionato accanto al giocatore.
-* `player.moveto <RefID>` — Teletrasporta il giocatore accanto all'NPC o all'oggetto indicato.
-* `coc <EditorID_Cella>` — Teletrasporta il giocatore nella cella indicata (es. `coc WhiterunOrigin`).
-* `tcl` — Attiva/disattiva le collisioni (noclip) per posizionare oggetti in punti difficili.
-* `tfc` — Attiva/disattiva la telecamera libera (`tfc 1` mette anche in pausa il mondo).
+- `player.additem <BaseID> <quantità>` — Aggiunge un oggetto nell'inventario del giocatore.
+- `player.removeitem <BaseID> <quantità>` — Rimuove un oggetto dall'inventario.
+- `moveto player` — Teletrasporta l'NPC o l'oggetto selezionato accanto al giocatore.
+- `player.moveto <RefID>` — Teletrasporta il giocatore accanto all'NPC o all'oggetto indicato.
+- `coc <EditorID_Cella>` — Teletrasporta il giocatore nella cella indicata (es. `coc WhiterunOrigin`).
+- `fov <valore>` — Modifica il campo visivo (es. `fov 75` o `fov 90`; può reimpostarsi al riavvio o dopo alcuni eventi, salvo configurazione in `SkyrimPrefs.ini` / `Skyrim.ini`).
+- `tcl` — Attiva/disattiva le collisioni (noclip) per posizionare oggetti in punti difficili.
+- `tfc` — Attiva/disattiva la telecamera libera (`tfc 1` mette anche in pausa il mondo).
 
 ### Missioni (Quest)
 * `sqt` — Elenca le missioni attive e i relativi ID interni.
